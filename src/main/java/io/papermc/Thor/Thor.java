@@ -84,6 +84,10 @@ public class Thor extends JavaPlugin implements Listener {
     }
   }
 
+  /**
+   * Events related to the player taking damage to lightning.
+   * @param event
+   */
   @EventHandler
   public void onPlayerDamageToLightning(EntityDamageEvent event) {
     if (event.getEntity() instanceof Player player) {
