@@ -30,4 +30,3 @@ Please feel free to create issues for any suggestions you have related to this p
 
 ## License
 This plugin is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.<br>
-Please see the `LICENSE` file for more details.
