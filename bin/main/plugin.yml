@@ -1,0 +1,8 @@
+name: Thor
+version: 1.0.0
+main: io.papermc.Thor.Thor
+description: A plugin that allows the user to summon lightning.
+author: Lucas Garcia
+api: '1.21.11'
+load: STARTUP
+prefix: Thor
