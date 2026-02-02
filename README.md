@@ -29,5 +29,5 @@ Thor is a **plugin** for Minecraft: Java Edition v1.21.11 that grants the wielde
 Please feel free to create issues for any suggestions you have related to this plugin.
 
 ## License
-This plugin is licensed under the **GNU General Public License v2.0 (GPL-2.0)**.
+This plugin is licensed under the **GNU General Public License v2.0 (GPL-2.0)**.<br>
 Please see the `LICENSE` file for more details.
