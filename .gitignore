@@ -6,9 +6,10 @@ build/
 .jar
 .class
 
-# Ignore IDE settings
+# Ignore IDE settings and Gradle junk
 .vscode/
 .idea/
+.gradle/
 
 # Ignore OS garbage
 .DS_Store
